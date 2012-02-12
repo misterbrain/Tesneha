@@ -1,0 +1,14 @@
+beta 1.2
+-Gegnerbewegung verändert (Gegner gehen nicht mehr durch dich durch)
+-NPC-Gespräche verbessert (Gespräch kehrt zur letzten Entscheidung zurück, ESC beendet das Gespräch)
+-Das Spielmenü öffnet sich wieder, nachdem der Shop einmal geöffnet wurde
+-Skelette greifen wieder an
+-Jump'n'Run Modus hinzugefügt
+-Inventar erweitert (Verschiedene Items möglich, nicht nur Waffen wie bisher)
+-Dynamisches Laden der Daten zu Beginn, wird zu Pluginfunktion ausgebaut
+
+beta 1.1
+-Bugs behoben (hier hatte ich noch keine changelist, also weiß ich nicht genau was)
+
+beta 1.0
+-Erste Version
