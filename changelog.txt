@@ -1,3 +1,15 @@
+beta 1.3
+-Truhen hinzugefügt
+-Plugins hinzugefügt (Skripte, Texturen, Customblöcke mit Skripten, Maps verändern)
+-Rundumattacken hinzugefügt
+-Credits hinzugefügt
+-Bugs im Jump'n'Run Modus behoben
+-Itemgrafiken hinzugefügt
+-Bug mit Ausrüstungsmenü behoben (Alle Items außer Waffen wurden nach ausrüsten entfernt)
+-Gameoverbug behoben
+-Neue Texturen
+-Tastenbug behoben
+
 beta 1.2
 -Gegnerbewegung verändert (Gegner gehen nicht mehr durch dich durch)
 -NPC-Gespräche verbessert (Gespräch kehrt zur letzten Entscheidung zurück, ESC beendet das Gespräch)
